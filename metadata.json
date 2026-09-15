@@ -1,0 +1,6 @@
+{
+  "name": "PageTurner Books Marketing Strategy",
+  "description": "Academic marketing strategy case study and digital revival blueprint for PageTurner Books independent bookseller.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
